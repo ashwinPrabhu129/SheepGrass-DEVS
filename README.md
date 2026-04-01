@@ -2,4 +2,4 @@ This repository has everything we did for the semester in my course. There are s
 
 IntelliJ is what I did this project on so IntelliJ is recommended for the least likelihood of bugs. Go to Homework25/FinalProject2025/APrabhu and run the SheepGrassCellSpace.java file. To adjust the amount of obstacles that are generated edit the obstacleDensity variable in the GlobalRef.java file. To adjust the sheep repopulation rate edit the sheepReproduceT in the GlobalRef.java file. To adjust the grass repopulation rate edit the grassReproduceT variable in the GlobalRef.java file. To adjust the global time (how fast or slow everything happens) adjust the runner.setTimeScale() function in the SheepGrassCellSpace.java file.
 
-If the code for some reason does not work for you, here is a youtube link of me running the program: https://youtu.be/693WLHCy6yc
+The program may take a couple secconds to load up properly but if the code for some reason does not work for you, here is a youtube link of me running the program: https://youtu.be/693WLHCy6yc
